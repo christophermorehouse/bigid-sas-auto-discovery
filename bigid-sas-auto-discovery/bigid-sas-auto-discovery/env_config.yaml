@@ -1,0 +1,9 @@
+Script Parameters:
+- resource_address: hostname_or_ip_to_sas_server
+- scope_name: test_scope
+- ds_name_prefix: prefixname
+- max_threads: 5
+
+BigID Server:
+- bigid_url: https://bigidhost.com
+- bigid_auth_token: enter_auth_token_here
